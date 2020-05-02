@@ -1,1 +1,1 @@
-# rake
+# Welcome to the rake project.
